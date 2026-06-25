@@ -1,0 +1,11 @@
+
+credentials.json
+token.json
+.env
+
+
+venv/
+
+# Python 快取
+__pycache__/
+*.pyc
