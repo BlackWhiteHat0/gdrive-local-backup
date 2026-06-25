@@ -22,7 +22,7 @@
 1. 複製專案並進入資料夾：
 
 ```bash
-   git clone <你的 repo 網址>
+   git clone <repo 網址>
    cd Phone_Data_To_Compute_System
 ```
 
